@@ -1,2 +1,2 @@
 # Furkan
-Java mof
+Java mod
